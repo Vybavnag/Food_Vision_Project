@@ -54,6 +54,8 @@ Epoch 10/10
 
 
 Here is what the loss curves look like:
+
+
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/final_loss.jpg)
 
 
