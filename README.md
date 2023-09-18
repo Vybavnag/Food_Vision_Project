@@ -20,6 +20,8 @@ For this project, I decided to first create a baseline with as few parameters as
 
 
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/base_loss.jpg)
+
+
 It looked like the moddel was overfitting so I decided to add DataAugmentation.
 
 The loss curves for the DataAugmentation is shown here:
