@@ -1,4 +1,4 @@
-This is a summary of my Food Vision project for OpenAvenues. 
+This is a summary of my Food Vision project.
 
 This is a Computer Vison project in TensorFlow that utilizes transfer learning and convulutional neural networks to perform food classification. 
 
