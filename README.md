@@ -22,10 +22,27 @@ For this project, I decided to first create a baseline with as few parameters as
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/base_loss.jpg)
 
 
+
+
+
+
+
+
+
+
 It looked like the moddel was overfitting so I decided to add DataAugmentation.
 
 The loss curves for the DataAugmentation is shown here:
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/data_aug_loss.jpg)
+
+
+
+
+
+
+
+
+
 looks like the accuracy took a hit and went down but seems like data is diverse providing variety in training. I then decided to unfreeze some layers and achieved an accuracy of 77%
 
 
