@@ -40,9 +40,10 @@ Epoch 9/10
 Epoch 10/10
 2368/2368 [==============================] - 83s 35ms/step - loss: 0.7923 - accuracy: 0.7787 - val_loss: 0.7941 - val_accuracy: 0.7776
 
-Here is what the loss curves look like:
 
+Here is what the loss curves look like:
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/final_loss.jpg)
+
 
 Here is when I compared before fine-tuning and after:
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/final_comparing_loss.jpg)
