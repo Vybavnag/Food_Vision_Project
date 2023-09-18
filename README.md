@@ -27,11 +27,11 @@ looks like the accuracy took a hit and went down but seems like data is diverse 
 
 ## Results
 Here are the results I achieved.
-Epoch 5/10
-2368/2368 [==============================] - 115s 40ms/step - loss: 1.3341 - accuracy: 0.6511 - val_loss: 0.9124 - val_accuracy: 0.7461
-Epoch 6/10
-2368/2368 [==============================] - 90s 38ms/step - loss: 1.1738 - accuracy: 0.6893 - val_loss: 0.8474 - val_accuracy: 0.7608
-Epoch 7/10
+* Epoch 5/10
+* 2368/2368 [==============================] - 115s 40ms/step - loss: 1.3341 - accuracy: 0.6511 - val_loss: 0.9124 - val_accuracy: 0.7461
+* Epoch 6/10
+* 2368/2368 [==============================] - 90s 38ms/step - loss: 1.1738 - accuracy: 0.6893 - val_loss: 0.8474 - val_accuracy: 0.7608
+* Epoch 7/10
 2368/2368 [==============================] - 88s 37ms/step - loss: 1.0501 - accuracy: 0.7180 - val_loss: 0.8073 - val_accuracy: 0.7697
 Epoch 8/10
 2368/2368 [==============================] - 87s 36ms/step - loss: 0.9531 - accuracy: 0.7417 - val_loss: 0.7768 - val_accuracy: 0.7757
