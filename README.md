@@ -43,6 +43,9 @@ The loss curves for the DataAugmentation is shown here:
 
 
 
+
+
+
 looks like the accuracy took a hit and went down but seems like data is diverse providing variety in training. I then decided to unfreeze some layers and achieved an accuracy of 77%
 
 
