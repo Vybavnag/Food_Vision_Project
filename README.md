@@ -12,7 +12,7 @@ This is a Computer Vison project in TensorFlow that utilizes transfer learning a
 
 ## Motivation
 Upon reaserching copmuter vision and deep learning I stumbled on to the Food101 reaserch paper and found it intreging and wanted to see if I could create a model to beat the results obtained.
-![alt text](https://github.com/Vybavnag/OpenAvenues_project/blob/main/images/Screenshot%202023-08-08%20232313.jpg)
+![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/food101.jpg)
 
 
 ## Summary of approach
