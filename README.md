@@ -17,6 +17,8 @@ Upon researching computer vision and deep learning I stumbled on the Food101 res
 
 ## Summary of approach
 For this project, I decided to first create a baseline with as few parameters as possible. The loss curves for the base_line is shown here:
+
+
 ![alt text](https://github.com/Vybavnag/Food_Vision_Project/blob/main/images/base_loss.jpg)
 It looked like the moddel was overfitting so I decided to add DataAugmentation.
 
